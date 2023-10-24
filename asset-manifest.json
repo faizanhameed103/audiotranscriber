@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audiotranscriber/static/css/main.7754183d.css",
+    "main.js": "/audiotranscriber/static/js/main.6b079493.js",
+    "static/js/787.398085cb.chunk.js": "/audiotranscriber/static/js/787.398085cb.chunk.js",
+    "index.html": "/audiotranscriber/index.html",
+    "main.7754183d.css.map": "/audiotranscriber/static/css/main.7754183d.css.map",
+    "main.6b079493.js.map": "/audiotranscriber/static/js/main.6b079493.js.map",
+    "787.398085cb.chunk.js.map": "/audiotranscriber/static/js/787.398085cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7754183d.css",
+    "static/js/main.6b079493.js"
+  ]
+}
